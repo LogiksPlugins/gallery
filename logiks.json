@@ -1,0 +1,32 @@
+{
+    "name": "gallery",
+    "version": "1.0.0",
+    "package":"gallery",
+    "type": "module",
+    "app": "*",
+    "privilege": "*",
+    "description": "Gallery module for generating image lists and arrays from Logiks supported gallery from withing media folder",
+    "keywords": "",
+    "license": "MIT",
+    "marketid": "",
+    "homepage": "https://github.com/LogiksPlugins/gallery",
+    "bugs": "https://github.com/LogiksPlugins/gallery/issues",
+    "private": false,
+    "permissions": "",
+    "dependencies": {
+        "core": "*"
+    },
+    "directoryMap": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/LogiksPlugins/gallery.git"
+    },
+    "authors": [
+        {
+            "name": "OpenLogiks Team",
+            "email": "admin@openlogiks.org",
+            "authorid":"olgksadmin"
+        }
+    ]
+}
