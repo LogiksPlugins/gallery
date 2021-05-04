@@ -1,6 +1,6 @@
 <?php
 if(!defined('ROOT')) exit('No direct script access allowed');
-checkServiceSession();
+//checkServiceSession();
 
 if(SITENAME!="cms") {
 	printServiceMSG("ONLY CMS can access this service.");
